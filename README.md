@@ -10,13 +10,15 @@ Follow me!
 * An ADF pipeline
 * A python script (Can have basically just an "Hell World"
 
-#Step 1 ( Creating an Azure Batch Account)
+# Step 1 ( Creating an Azure Batch Account)
 
 * Create a Azure batch account in a region close to you.
 Check the documentation below which gives a step by step guide on how to do this
-https://docs.microsoft.com/en-us/azure/batch/batch-account-create-portal#:~:text=%20Create%20a%20Batch%20account%20%201%20Sign,select%20Advanced%20to%20specify%20Identity%20type%2C...%20More%20
+https://docs.microsoft.com/en-us/azure/batch/batch-account-create-portal#create-a-batch-account
+![image](https://user-images.githubusercontent.com/60587384/143048803-b4d341ad-5eef-4dc6-830c-949c441e36e1.png)
 
-#Step 2 (Storage account creation  and container setup)
+
+# Step 2 (Storage account creation  and container setup)
 * Create a Storage account in the *same region as your batch account
 Check the documentation below which gives a step by step guide on how to do this
 https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal
