@@ -28,3 +28,7 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tab
 * Following the steps nummerically, you can create a container where your files will be uploaded to.
 ![container creation](https://user-images.githubusercontent.com/60587384/143048303-3327ae0d-63e9-4e8e-9c02-99ba5205d286.png)
 
+# ADF SETUP
+
+![adf](https://user-images.githubusercontent.com/60587384/145054844-db800a26-a5c7-4301-b3e5-a9fd86a6fe5f.png)
+
