@@ -24,5 +24,7 @@ Check the documentation below which gives a step by step guide on how to do this
 https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal
 
 * Create a container 
-**Following the steps nummerically, you can create a container where your files will be uploaded to.
+
+* Following the steps nummerically, you can create a container where your files will be uploaded to.
 ![container creation](https://user-images.githubusercontent.com/60587384/143048303-3327ae0d-63e9-4e8e-9c02-99ba5205d286.png)
+
