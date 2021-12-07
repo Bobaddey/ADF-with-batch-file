@@ -34,7 +34,7 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tab
  ![str](https://user-images.githubusercontent.com/60587384/145057490-8fa980ba-921b-441d-b1af-0b70fc10101f.png)
 
 
-## ADF Set Up
+## Azure Data Factory (ADF) Set Up
 
 * Next is to create the Azure Datafactory (ADF) pipeline following the steps below
 
